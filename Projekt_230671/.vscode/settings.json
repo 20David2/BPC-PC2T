@@ -1,0 +1,7 @@
+{
+    "java.project.outputPath": "target",
+    "java.project.sourcePaths": [
+        "db",
+        "src"
+    ]
+}
